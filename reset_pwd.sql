@@ -1,0 +1,2 @@
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Thunder@2025';
+FLUSH PRIVILEGES;

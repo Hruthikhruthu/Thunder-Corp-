@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">ThunderCore ERP</title>
+  <desc id="desc">ThunderCore ERP lightning mark used as the browser favicon.</desc>
+  <rect width="64" height="64" rx="12" fill="#0f172a"/>
+  <path d="M36 4 14 36h16l-2 24 22-34H34z" fill="#facc15"/>
+  <path d="M34 9 20 32h15l-1 14 12-20H31z" fill="#fef9c3" opacity=".55"/>
+</svg>

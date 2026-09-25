@@ -1,0 +1,208 @@
+[2m3:03:06 pm[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:971:11)
+    at Socket._write (node:net:983:8)
+    at writeOrBuffer (node:internal/streams/writable:572:12)
+    at _write (node:internal/streams/writable:501:10)
+    at Writable.write (node:internal/streams/writable:510:10)
+    at Socket.ondata (node:internal/streams/readable:1009:22)
+    at Socket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:561:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+    at Readable.push (node:internal/streams/readable:392:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:03:07 pm[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:971:11)
+    at Socket._write (node:net:983:8)
+    at writeOrBuffer (node:internal/streams/writable:572:12)
+    at _write (node:internal/streams/writable:501:10)
+    at Writable.write (node:internal/streams/writable:510:10)
+    at Socket.ondata (node:internal/streams/readable:1009:22)
+    at Socket.emit (node:events:518:28)
+    at Readable.read (node:internal/streams/readable:782:10)
+    at Socket.read (node:net:790:39)
+    at flow (node:internal/streams/readable:1283:53)
+    at emitReadable_ (node:internal/streams/readable:847:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[2m3:28:17 pm[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m3:28:17 pm[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m3:28:17 pm[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m3:28:24 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962304125[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:25 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962305223[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:25 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962305203[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:30 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962310892[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:31 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962310905[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:31 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962310908[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:36 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962316747[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:36 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962316748[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:36 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962316747[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:42 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962322904[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:42 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962322895[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:43 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962322941[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:48 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962328738[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:48 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962328739[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:48 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962328744[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:54 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962334741[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:54 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962334739[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:28:54 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962334742[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:00 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962340914[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:00 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962340971[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:01 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962340962[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:06 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962346743[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:06 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962346756[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:06 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962346752[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:12 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962352748[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:12 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962352745[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:12 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962352746[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:18 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962358744[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:18 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962358744[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:18 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962358744[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:24 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962364743[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:24 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962364743[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:24 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962364745[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:30 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962370749[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:30 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962370759[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:30 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962370757[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:36 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962376759[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:36 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962376759[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:36 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962376759[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:42 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962382733[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:42 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962382733[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m3:29:42 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779962382755[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)

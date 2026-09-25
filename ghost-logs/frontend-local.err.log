@@ -1,0 +1,44 @@
+[2m4:23:38 pm[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m4:23:39 pm[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m4:23:39 pm[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m4:23:39 pm[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m4:23:45 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965625017[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m4:23:45 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965625224[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m4:23:45 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965624826[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m4:23:46 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965625340[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m4:23:50 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965630861[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m4:23:51 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965631739[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m4:23:52 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965631739[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
+[2m4:23:52 pm[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /ws/info?t=1779965631740[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1139:18)
+    at afterConnectMultiple (node:net:1714:7)
