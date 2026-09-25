@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.thundercore.erp.ErpApplicationTests
--------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.89 s -- in com.thundercore.erp.ErpApplicationTests
